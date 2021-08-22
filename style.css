@@ -31,3 +31,11 @@
     font-weight: normal;
 
 }
+
+a {
+    color: black;
+}
+
+.big-link {
+    font-size: 1.25rem;
+}
