@@ -1,0 +1,26 @@
+.color-linkedin {
+    background-color: #2867B2;
+    border-color: #2867B2;
+
+}
+
+.color-github {
+    background-color: #211F1F;
+    border-color: #211F1F;
+
+}
+
+.color-email {
+    background-color: #BB001B;
+    border-color: #BB001B;
+
+}
+
+.navbar {
+    margin-bottom: 50px;
+}
+
+.title {
+    font-weight: normal;
+
+}
