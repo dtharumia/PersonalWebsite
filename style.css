@@ -1,18 +1,25 @@
 .color-linkedin {
     background-color: #2867B2;
     border-color: #2867B2;
-
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
 }
 
 .color-github {
     background-color: #211F1F;
     border-color: #211F1F;
-
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
 }
 
 .color-email {
     background-color: #BB001B;
     border-color: #BB001B;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
 
 }
 
